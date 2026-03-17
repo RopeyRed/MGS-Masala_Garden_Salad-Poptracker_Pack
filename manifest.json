@@ -1,0 +1,16 @@
+{
+    "name": "Metal Gear Solid Archipelago",
+    "game_name": "Metal Gear Solid",
+    "package_version": "0.0.1",
+    "package_uid": "metal gear solid_ap",
+    "author": "RopeyRed",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}
