@@ -1,0 +1,26 @@
+{
+    "tabbed_maps_vertical": 
+	{
+        "type": "tabbed",
+        "tabs": 
+		[
+            {
+                "title": "Shadow Moses",
+                "content": 
+				{
+                    "type": "tabbed",
+                    "tabs": 
+					[
+                        {
+                            "title": "Shadow Moses",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Shadow Moses"]
+                            }
+                        }
+					]
+				}
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "shared_item_grid_vertical": 
+	{
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": 
+		[
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "1,1",
+                "content": 
+				[
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0,0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 58,
+                        "item_width": 102,
+                        "rows": 
+						[
+                            [
+								"socom",
+                                "grenade",
+								"chaffgrenade",
+                                "stinger",
+								"psg-1"
+                            ],
+                            [
+								"progressivekeycard",
+								"c4",
+								"minedetector",
+								"medicine",
+								"rope",
+								"palkey"
+							]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "setting_grid": 
+	{
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": 
+		[
+            {
+                "type": "itemgrid",
+                "item_margin": "4, 4",
+                "item_height": 96,
+                "item_width": 96,
+                "rows": 
+				[
+                    [
+						"easy",
+						"hard",
+					]
+                ]
+            }
+        ]
+    }
+}

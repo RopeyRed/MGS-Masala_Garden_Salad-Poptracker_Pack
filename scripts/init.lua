@@ -17,7 +17,7 @@ else
 end  
 
 if PopVersion and PopVersion >= "0.23.0" then
-    Tracker:AddLocations("locations/dungeons.json")
+    Tracker:AddLocations("locations/Shadow Moses.json")
 end
 
 -- Layout

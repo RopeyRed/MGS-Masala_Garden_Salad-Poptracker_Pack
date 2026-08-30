@@ -1,0 +1,97 @@
+[
+    {
+        "name": "SOCOM",
+        "type": "toggle",
+        "img": "images/items/socom.png",
+        "img_mods": "",
+        "codes": "socom"
+    },
+    {
+        "name": "Grenade",
+        "type": "toggle",
+        "img": "images/items/grenade.png",
+        "img_mods": "",
+        "codes": "grenade"
+    },	
+    {
+        "name": "Chaff Grenade",
+        "type": "toggle",
+        "img": "images/items/chaffgrenade.png",
+        "img_mods": "",
+        "codes": "chaffgrenade"
+    },
+    {
+        "name": "Stinger",
+        "type": "toggle",
+        "img": "images/items/stinger.png",
+        "img_mods": "",
+        "codes": "stinger"
+    },
+    {
+        "name": "PSG-1",
+        "type": "toggle",
+        "img": "images/items/psg1.png",
+        "img_mods": "",
+        "codes": "psg-1"
+    },
+    {
+        "name": "Progressive Keycard",
+        "type": "consumable",
+		"max_quantity": 7,
+		"increment": 1,
+		"decrement": 1,
+		"initial_quantity": 0,
+        "img": "images/items/progressivekeycard.png",
+        "img_mods": "",
+        "codes": "progressivekeycard"
+    },
+    {
+        "name": "c4",
+        "type": "toggle",
+        "img": "images/items/c4.png",
+        "img_mods": "",
+        "codes": "c4"
+    },
+    {
+        "name": "Mine Detector",
+        "type": "toggle",
+        "img": "images/items/minedetector.png",
+        "img_mods": "",
+        "codes": "minedetector"
+    },
+    {
+        "name": "Medicine",
+        "type": "toggle",
+        "img": "images/items/medicine.png",
+        "img_mods": "",
+        "codes": "medicine"
+    },
+    {
+        "name": "Rope",
+        "type": "toggle",
+        "img": "images/items/rope.png",
+        "img_mods": "",
+        "codes": "rope"
+    },
+    {
+        "name": "PAL Key",
+        "type": "toggle",
+        "img": "images/items/palkey.png",
+        "img_mods": "",
+        "codes": "palkey"
+    },
+    {
+        "name": "Liquid Easy",
+        "type": "toggle",
+        "img": "images/items/easy.png",
+        "img_mods": "",
+        "codes": "easy"
+    },
+    {
+        "name": "Solid Hard",
+        "type": "toggle",
+        "img": "images/items/hard.png",
+        "img_mods": "",
+        "codes": "hard"
+    }
+]

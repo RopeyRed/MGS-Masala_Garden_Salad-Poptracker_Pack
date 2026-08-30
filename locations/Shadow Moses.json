@@ -1,0 +1,177 @@
+[
+	{
+		"name": "Shadow Moses",
+		"access_rules": [],
+		"children":
+		[
+			{
+				"name": "Docks",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 671,
+								"y": 1899,
+								"size": 40
+							}
+						]
+					},
+				],
+			},
+			{
+				"name": "Helipad",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 1,
+								"y": 1,
+								"size": 2
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 2,
+								"y": 2,
+								"size": 2
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 3,
+								"y": 3,
+								"size": 2
+							}
+						]
+					},
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 3,
+								"y": 3,
+								"size": 2
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

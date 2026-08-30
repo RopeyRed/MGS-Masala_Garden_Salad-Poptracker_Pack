@@ -8,8 +8,8 @@
 -- ScriptHost:AddWatchForCode("ow_dungeon details handler", "ow_dungeon_details", owDungeonDetails)
 
 
-metal_gear_solid_location = {}
-metal_gear_solid_location.__index = metal_gear_solid_location
+mgs_masala_garden_salad_location = {}
+mgs_masala_garden_salad_location.__index = mgs_masala_garden_salad_location
 
 accessLVL= {
     [0] = "none",
@@ -80,8 +80,8 @@ end
 
 -- creates a lua object for the given name. it acts as a representation of a overworld region or indoor location and
 -- tracks its connected objects via the exit-table
-function metal_gear_solid_location.new(name)
-    local self = setmetatable({}, metal_gear_solid_location)
+function mgs_masala_garden_salad_location.new(name)
+    local self = setmetatable({}, mgs_masala_garden_salad_location)
     if name then
         NAMED_LOCATIONS[name] = self
         self.name = name
@@ -112,14 +112,14 @@ local function always()
 end
 
 -- marks a 1-way connections between 2 "locations/regions" in the source "locations" exit-table with rules if provided
-function metal_gear_solid_location:connect_one_way(exit, rule)
+function mgs_masala_garden_salad_location:connect_one_way(exit, rule)
     if type(exit) == "string" then
         local existing = NAMED_LOCATIONS[exit]
         if existing then
             print("Warning: " .. exit .. " defined multiple times")  -- not sure if it's worth fixing in data or simply allowing this
             exit = existing
         else
-            exit = metal_gear_solid_location.new(exit)
+            exit = mgs_masala_garden_salad_location.new(exit)
         end
     end
     if rule == nil then
@@ -129,14 +129,14 @@ function metal_gear_solid_location:connect_one_way(exit, rule)
 end
 
 -- marks a 2-way connection between 2 locations. acts as a shortcut for 2 connect_one_way-calls 
-function metal_gear_solid_location:connect_two_ways(exit, rule)
+function mgs_masala_garden_salad_location:connect_two_ways(exit, rule)
     self:connect_one_way(exit, rule)
     exit:connect_one_way(self, rule)
 end
 
 -- creates a 1-way connection from a region/location to another one via a 1-way connector like a ledge, hole,
 -- self-closing door, 1-way teleport, ...
-function metal_gear_solid_location:connect_one_way_entrance(name, exit, rule)
+function mgs_masala_garden_salad_location:connect_one_way_entrance(name, exit, rule)
     if rule == nil then
         rule = always
     end
@@ -145,7 +145,7 @@ end
 
 -- creates a connection between 2 locations that is traversable in both ways using the same rules both ways
 -- acts as a shortcut for 2 connect_one_way_entrance-calls
-function metal_gear_solid_location:connect_two_ways_entrance(name, exit, rule)
+function mgs_masala_garden_salad_location:connect_two_ways_entrance(name, exit, rule)
     if exit == nil then -- for ER
         return
     end
@@ -155,7 +155,7 @@ end
 
 -- creates a connection between 2 locations that is traversable in both ways but each connection follow different rules.
 -- acts as a shortcut for 2 connect_one_way_entrance-calls
-function metal_gear_solid_location:connect_two_ways_entrance_door_stuck(name, exit, rule1, rule2)
+function mgs_masala_garden_salad_location:connect_two_ways_entrance_door_stuck(name, exit, rule1, rule2)
     self:connect_one_way_entrance(name, exit, rule1)
     exit:connect_one_way_entrance(name, self, rule2)
 end
@@ -163,13 +163,13 @@ end
 -- technically redundant but well
 -- creates a connection between 2 locations that is traversable in both ways but each connection follow different rules.
 -- acts as a shortcut for 2 connect_one_way-calls
-function metal_gear_solid_location:connect_two_ways_stuck(exit, rule1, rule2)
+function mgs_masala_garden_salad_location:connect_two_ways_stuck(exit, rule1, rule2)
     self:connect_one_way(exit, rule1)
     exit:connect_one_way(self, rule2)
 end
 
 -- checks for the accessibility of a region/location given its own exit requirements
-function metal_gear_solid_location:accessibility()
+function mgs_masala_garden_salad_location:accessibility()
     -- only executed when run from a rules within a connection
     if currentLocation ~= nil and currentParent ~= nil then
         if indirectConnections[currentLocation] == nil then
@@ -187,7 +187,7 @@ function metal_gear_solid_location:accessibility()
 end
 
 -- 
-function metal_gear_solid_location:discover(accessibility, keys)
+function mgs_masala_garden_salad_location:discover(accessibility, keys)
     -- checks if given Accessbibility is higer then last stored one
     -- prevents walking in circles
     
@@ -247,7 +247,7 @@ function metal_gear_solid_location:discover(accessibility, keys)
     end
 end
 
-entry_point = metal_gear_solid_location.new("entry_point")
+entry_point = mgs_masala_garden_salad_location.new("entry_point")
 
 -- 
 function StateChanged()
