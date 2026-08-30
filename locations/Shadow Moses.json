@@ -74,8 +74,8 @@
 								"size": 40
 							}
 						]
-					},
-				],
+					}
+				]
 			},
 			{
 				"name": "Helipad",
@@ -167,6 +167,6922 @@
 								"x": 3,
 								"y": 3,
 								"size": 2
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Tank Hangar",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 1,
+								"y": 1,
+								"size": 2
+							}
+						]
+					},
+					{
+						"name": "Thermal Goggles",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "Thermal Goggles",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 2,
+								"y": 2,
+								"size": 2
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 3,
+								"y": 3,
+								"size": 2
+							}
+						]
+					},
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections":
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 3,
+								"y": 3,
+								"size": 2
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Tank Hangar (lvl1)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Suppressor",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Suppressor",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Cardboard Box A",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Cardboard Box A",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Tank Hangar (lvl2)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Mine Detector",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Mine Detector",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory (lvl1)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "C4 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "C4 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory (lvl2)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory (lvl3)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Nikita 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory (lvl5)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory (C4)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "C4 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Cell",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Key Card Level 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Heavily Armed Genome Soldiers",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory South",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Key Card Level 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Revolver Ocelot",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory South (C4)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "C4 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory South (C4-lvl4)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Camera",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Camera",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Armory South (C4-lvl6)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Canyon",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "M1 Tank",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Key Card Level 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Nuke Building 1",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Nuke Building B1",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Nuke Building B1 (lvl4)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Cardboard Box B",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Cardboard Box B",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Pal Key",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Pal Key",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Key Card Level 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Nuke Building B1 (lvl5)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Diazepam 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Diazepam 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Nuke Building B2",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Gas Mask",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Gas Mask",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "C4 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Nuke Building B2 (lvl4)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Night Vision Goggles",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Night Vision Goggles",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Lab",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Key Card Level 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Gray Fox",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Commander Room",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Psycho Mantis",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Cave",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Diazepam 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Diazepam 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Underground Passage",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Sniper Wolf I",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Medi Room",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Handkerchief",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Handkerchief",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Key Card Level 6",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 6",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Time Bomb 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Time Bomb 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Comm Tower A",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 6",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 6",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 7",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 7",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 6",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 6",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 7",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 7",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 8",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 8",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 9",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 9",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Rope",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Rope",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Black-outfitted Genome Soldiers I",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Walkway",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "C4 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Comm Tower B",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Comm Tower B (Hind D[efeated])",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 6",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 6",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 7",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 7",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 8",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 8",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 9",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 9",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stealth Camouflaged Genome Soldiers",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Comm Tower B Roof",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "A Hind D",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Snow Field",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Sniper Wolf II",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Snow Field (sans Wolf)",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Cardboard Box C",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Cardboard Box C",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Diazepam 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Diazepam 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 6",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 6",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Blast Furnace",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "C4 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "C4 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "PSG-1 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "PSG-1 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Body Armor",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Body Armor",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Cargo Elevator",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 6",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 6",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 7",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 7",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 8",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 8",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 9",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 9",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Claymore 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Claymore 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Black-outfitted Genome Soldiers II",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Warehouse",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Nikita 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Nikita 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Vulcan Raven",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Key Card Level 7",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Key Card Level 7",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Warehouse North",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Underground Base",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "SOCOM 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "SOCOM 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 4",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 4",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "FA-MAS 5",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "FA-MAS 5",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Command Room",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Metal Gear REX",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Ration 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 2",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 2",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stinger 3",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stinger 3",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Chaff Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Chaff Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "Stun Grenade 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Stun Grenade 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Metal Gear REX",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Metal Gear REX Brawl",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "BOSS",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Liquid Snake",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Escape Route",
+				"access_rules": [],
+				"children":
+				[
+					{
+						"name": "Ration 1",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "Ration 1",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 390,
+								"y": 1883,
+								"size": 40
+							}
+						]
+					},
+					{
+						"name": "The Best is Yet to Come",
+						"access_rules": [],
+						"sections": 
+						[
+							{
+								"name": "The Best is Yet to Come",
+								"access_rules": [],
+								"visibility_rules": [],
+								"item_count": 1
+							}
+						],
+						"map_locations":
+						[
+							{
+								"map": "Shadow Moses",
+								"x": 470,
+								"y": 1936,
+								"size": 40
 							}
 						]
 					}
