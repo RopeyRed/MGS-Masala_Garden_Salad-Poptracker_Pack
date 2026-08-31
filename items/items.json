@@ -34,7 +34,7 @@
         "img_mods": "",
         "codes": "psg-1"
     },
-    {
+	{
         "name": "Progressive Keycard",
         "type": "consumable",
 		"max_quantity": 7,
@@ -45,6 +45,50 @@
         "img_mods": "",
         "codes": "progressivekeycard"
     },
+//    {
+//        "name": "Keycard",
+//        "type": "progressive",
+//		"allow_disabled": true,
+//		"initial_stage_idx": 0,
+//		"stages": 
+//		[
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl1",
+//				"inherit_codes": false
+//			},
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl2",
+//				"inherit_codes": true
+//			},
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl3",
+//				"inherit_codes": true
+//			},
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl4",
+//				"inherit_codes": true
+//			},
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl5",
+//				"inherit_codes": true
+//			},
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl6",
+//				"inherit_codes": true
+//			},
+//			{
+//				"img": "images/items/progressivekeycard.png",
+//				"codes": "lvl7",
+//				"inherit_codes": true
+//			},
+//		],
+//    },
     {
         "name": "c4",
         "type": "toggle",
