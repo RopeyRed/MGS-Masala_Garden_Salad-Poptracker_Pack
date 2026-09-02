@@ -124,8 +124,24 @@
         "img_mods": "",
         "codes": "palkey"
     },
-    {
-        "name": "Liquid Easy",
+	{
+		"name": "Logic Difficulty",
+		"type": "progressive",
+		"allow_disabled": false,
+		"stages": 
+		[
+			{
+				"name": "Liquid Easy",
+				"codes": "logic_difficulty,logic_difficulty_easy"
+			},
+			{
+				"name": "Solid Hard",
+				"codes": "logic_difficulty,logic_difficulty_hard"
+			}
+		]
+	},
+	{
+        "name": "Easy",
         "type": "toggle",
         "img": "images/items/easy.png",
         "img_mods": "",
@@ -137,5 +153,12 @@
         "img": "images/items/hard.png",
         "img_mods": "",
         "codes": "hard"
-    }
+    },
+	{
+        "name": "Ocelot Defeat",
+        "type": "toggle",
+        "img": "images/items/ocelotdefeat.png",
+        "img_mods": "",
+        "codes": "ocelotdefeat"
+    },
 ]
