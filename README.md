@@ -7,3 +7,6 @@ All bosses are also currently needing to be manually toggled so ensure you toggl
 If you discover any oddities with logic please let me know so I can patch it!
 
 Due to the way locations work in MGS1 you will notice that locations dont get checked until you collect all items from that category (eg rations in the cell wont check until you collect both). Still open to change this, the other option is to have each check listed seperately rather than grouped - the issue with this is you may get inconsistencies with location being marked as checked despite not collecting the item from that specific location. Let me know how you feel about it.
+
+*Known Issues*
+The checks behind the NW and NE false walls in the armory do not mark as checked, please check them manually once you collect them in game for the time being.
