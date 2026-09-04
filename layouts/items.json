@@ -1,5 +1,5 @@
 {
-    "shared_item_grid_vertical": 
+    "weapon_grid": 
 	{
         "type": "array",
         "orientation": "vertical",
@@ -24,24 +24,110 @@
 						[
                             [
 								"socom",
-                                "grenade",
-								"chaffgrenade",
-                                "stinger",
-								"psg-1"
-                            ],
-                            [
-								"progressivekeycard",
-								"c4",
-								"minedetector",
-								"medicine",
-								"rope",
-								"palkey"
+								"fa-mas",
+								"psg-1",
 							],
 							[
-								"ocelotdefeat"
+                                "grenade",
+								"chaffgrenade",
+                                "stungrenade",
+								"c4",
+								"claymore",
+                            ],
+							[
+								"stinger",
+								"nikita",
 							]
                         ]
                     }
+                ]
+            }
+        ]
+    },
+	"item_grid": 
+	{
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": 
+		[
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "1,1",
+                "content": 
+				[
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0,0",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 58,
+                        "item_width": 102,
+                        "rows": 
+						[
+                            [
+								"ration",
+								"medicine",
+								"diazepam",
+							],
+							[
+								"progressivekeycard",
+								"palkey",
+							],
+							[
+								"cardboardboxa",
+								"cardboardboxb",
+								"cardboardboxc",
+							],
+							[
+								"suppressor",
+								"minedetector",
+								"camera",
+								"handkerchief",
+								"rope",
+							],
+							[
+								"thermalgoggles",
+								"nightvisiongoggles",
+								"gasmask",
+								"bodyarmor",
+							]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "boss_grid": 
+	{
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": 
+		[
+            {
+                "type": "itemgrid",
+                "item_margin": "4, 4",
+                "item_height": 96,
+                "item_width": 96,
+                "rows": 
+				[
+                    [
+						"boss1",
+						"boss2",
+						"boss3",
+						"boss4",
+						"boss5",
+					],
+					[
+						"boss6",
+						"boss7",
+						"boss8",
+						"boss9",
+						"boss10",
+					]
                 ]
             }
         ]

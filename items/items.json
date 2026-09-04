@@ -2,37 +2,93 @@
     {
         "name": "SOCOM",
         "type": "toggle",
-        "img": "images/items/socom.png",
+        "img": "images/weapons/socom.png",
         "img_mods": "",
         "codes": "socom"
+    },
+	    {
+        "name": "FA-MAS",
+        "type": "toggle",
+        "img": "images/weapons/famas.png",
+        "img_mods": "",
+        "codes": "fa-mas"
+    },
+	{
+        "name": "PSG-1",
+        "type": "toggle",
+        "img": "images/weapons/psg1.png",
+        "img_mods": "",
+        "codes": "psg-1"
     },
     {
         "name": "Grenade",
         "type": "toggle",
-        "img": "images/items/grenade.png",
+        "img": "images/weapons/grenade.png",
         "img_mods": "",
         "codes": "grenade"
     },	
     {
         "name": "Chaff Grenade",
         "type": "toggle",
-        "img": "images/items/chaffgrenade.png",
+        "img": "images/weapons/chaffgrenade.png",
         "img_mods": "",
         "codes": "chaffgrenade"
+    },
+	    {
+        "name": "Stun Grenade",
+        "type": "toggle",
+        "img": "images/weapons/stungrenade.png",
+        "img_mods": "",
+        "codes": "stungrenade"
+    },
+	    {
+        "name": "C4",
+        "type": "toggle",
+        "img": "images/weapons/c4.png",
+        "img_mods": "",
+        "codes": "c4"
+    },
+	    {
+        "name": "Claymore",
+        "type": "toggle",
+        "img": "images/weapons/claymore.png",
+        "img_mods": "",
+        "codes": "claymore"
     },
     {
         "name": "Stinger",
         "type": "toggle",
-        "img": "images/items/stinger.png",
+        "img": "images/weapons/stinger.png",
         "img_mods": "",
         "codes": "stinger"
     },
-    {
-        "name": "PSG-1",
+	{
+        "name": "Nikita",
         "type": "toggle",
-        "img": "images/items/psg1.png",
+        "img": "images/weapons/nikita.png",
         "img_mods": "",
-        "codes": "psg-1"
+        "codes": "nikita"
+    },
+	{
+        "name": "Ration",
+        "type": "toggle",
+        "img": "images/items/ration.png",
+        "img_mods": "",
+        "codes": "ration"
+    },
+	{
+        "name": "Medicine",
+        "type": "toggle",
+        "img": "images/items/medicine.png",
+        "img_mods": "",
+        "codes": "medicine"
+    },
+	{
+        "name": "Diazepam",
+        "type": "toggle",
+        "img": "images/items/diazepam.png",
+        "img_mods": "",
+        "codes": "diazepam"
     },
 	{
         "name": "Progressive Keycard",
@@ -45,56 +101,40 @@
         "img_mods": "",
         "codes": "progressivekeycard"
     },
-//    {
-//        "name": "Keycard",
-//        "type": "progressive",
-//		"allow_disabled": true,
-//		"initial_stage_idx": 0,
-//		"stages": 
-//		[
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl1",
-//				"inherit_codes": false
-//			},
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl2",
-//				"inherit_codes": true
-//			},
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl3",
-//				"inherit_codes": true
-//			},
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl4",
-//				"inherit_codes": true
-//			},
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl5",
-//				"inherit_codes": true
-//			},
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl6",
-//				"inherit_codes": true
-//			},
-//			{
-//				"img": "images/items/progressivekeycard.png",
-//				"codes": "lvl7",
-//				"inherit_codes": true
-//			},
-//		],
-//    },
-    {
-        "name": "c4",
+	{
+        "name": "PAL Key",
         "type": "toggle",
-        "img": "images/items/c4.png",
+        "img": "images/items/palkey.png",
         "img_mods": "",
-        "codes": "c4"
+        "codes": "palkey"
+    },
+	{
+        "name": "Cardboard Box A",
+        "type": "toggle",
+        "img": "images/items/cboxa.png",
+        "img_mods": "",
+        "codes": "cardboardboxa"
+    },
+	{
+        "name": "Cardboard Box B",
+        "type": "toggle",
+        "img": "images/items/cboxb.png",
+        "img_mods": "",
+        "codes": "cardboardboxb"
+    },
+	{
+        "name": "Cardboard Box C",
+        "type": "toggle",
+        "img": "images/items/cboxc.png",
+        "img_mods": "",
+        "codes": "cardboardboxc"
+    },
+	{
+        "name": "suppressor",
+        "type": "toggle",
+        "img": "images/items/suppressor.png",
+        "img_mods": "",
+        "codes": "suppressor"
     },
     {
         "name": "Mine Detector",
@@ -103,12 +143,19 @@
         "img_mods": "",
         "codes": "minedetector"
     },
-    {
-        "name": "Medicine",
+	{
+        "name": "Camera",
         "type": "toggle",
-        "img": "images/items/medicine.png",
+        "img": "images/items/camera.png",
         "img_mods": "",
-        "codes": "medicine"
+        "codes": "camera"
+    },
+	{
+        "name": "Handkerchief",
+        "type": "toggle",
+        "img": "images/items/handkerchief.png",
+        "img_mods": "",
+        "codes": "handkerchief"
     },
     {
         "name": "Rope",
@@ -117,48 +164,116 @@
         "img_mods": "",
         "codes": "rope"
     },
-    {
-        "name": "PAL Key",
-        "type": "toggle",
-        "img": "images/items/palkey.png",
-        "img_mods": "",
-        "codes": "palkey"
-    },
 	{
-		"name": "Logic Difficulty",
-		"type": "progressive",
-		"allow_disabled": false,
-		"stages": 
-		[
-			{
-				"name": "Liquid Easy",
-				"codes": "logic_difficulty,logic_difficulty_easy"
-			},
-			{
-				"name": "Solid Hard",
-				"codes": "logic_difficulty,logic_difficulty_hard"
-			}
-		]
-	},
+        "name": "Thermal Goggles",
+        "type": "toggle",
+        "img": "images/items/thermalgoggles.png",
+        "img_mods": "",
+        "codes": "thermalgoggles"
+    },
+	    {
+        "name": "Night Vision Goggles",
+        "type": "toggle",
+        "img": "images/items/nvg.png",
+        "img_mods": "",
+        "codes": "nightvisiongoggles"
+    },
+	    {
+        "name": "Gas Mask",
+        "type": "toggle",
+        "img": "images/items/gasmask.png",
+        "img_mods": "",
+        "codes": "gasmask"
+    },
+	    {
+        "name": "Body Armor",
+        "type": "toggle",
+        "img": "images/items/bodyarmor.png",
+        "img_mods": "",
+        "codes": "bodyarmor"
+    },
 	{
         "name": "Easy",
         "type": "toggle",
-        "img": "images/items/easy.png",
+        "img": "images/settings/easy.png",
         "img_mods": "",
         "codes": "easy"
     },
-    {
+	{
+        "name": "Tank",
+        "type": "toggle",
+        "img": "images/bosses/boss2.png",
+        "img_mods": "",
+        "codes": "boss2"
+    },
+	{
+        "name": "Gray Fox",
+        "type": "toggle",
+        "img": "images/bosses/boss3.png",
+        "img_mods": "",
+        "codes": "boss3"
+    },
+	{
+        "name": "Psycho Mantis",
+        "type": "toggle",
+        "img": "images/bosses/boss4.png",
+        "img_mods": "",
+        "codes": "boss4"
+    },
+	{
+        "name": "Sniper Wolf I",
+        "type": "toggle",
+        "img": "images/bosses/boss5.png",
+        "img_mods": "",
+        "codes": "boss5"
+    },
+	{
+        "name": "Hind D",
+        "type": "toggle",
+        "img": "images/bosses/boss6.png",
+        "img_mods": "",
+        "codes": "boss6"
+    },
+	{
+        "name": "Sniper Wolf II",
+        "type": "toggle",
+        "img": "images/bosses/boss7.png",
+        "img_mods": "",
+        "codes": "boss7"
+    },
+	{
+        "name": "Vulcan Raven",
+        "type": "toggle",
+        "img": "images/bosses/boss8.png",
+        "img_mods": "",
+        "codes": "boss8"
+    },
+	{
+        "name": "Metal Gear REX",
+        "type": "toggle",
+        "img": "images/bosses/boss9.png",
+        "img_mods": "",
+        "codes": "boss9"
+    },
+	{
+        "name": "Liquid Snake",
+        "type": "toggle",
+        "img": "images/bosses/boss10.png",
+        "img_mods": "",
+        "codes": "boss10"
+    },
+	{
         "name": "Solid Hard",
         "type": "toggle",
-        "img": "images/items/hard.png",
+        "img": "images/settings/hard.png",
         "img_mods": "",
         "codes": "hard"
     },
 	{
-        "name": "Ocelot Defeat",
+        "name": "Revolver Ocelot",
         "type": "toggle",
-        "img": "images/items/ocelotdefeat.png",
+        "img": "images/bosses/boss1.png",
         "img_mods": "",
-        "codes": "ocelotdefeat"
+        "codes": "boss1"
     },
 ]
